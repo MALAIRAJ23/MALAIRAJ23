@@ -84,7 +84,6 @@ Status   : Open to Internships & Roles
 
 ### 🛒 Shoppers Verdict
 
-<img src="https://raw.githubusercontent.com/MALAIRAJ23/MALAIRAJ23/main/assets/shoppers-verdict.png" width="100%" alt="Shoppers Verdict Preview"/>
 
 </div>
 
@@ -102,7 +101,6 @@ A product review and verdict platform that helps shoppers make smarter buying de
 
 ### 😷 Smart Mask Recommendation
 
-<img src="https://raw.githubusercontent.com/MALAIRAJ23/MALAIRAJ23/main/assets/smart-mask.png" width="100%" alt="Smart Mask Preview"/>
 
 </div>
 
@@ -126,7 +124,6 @@ ML-powered system that recommends the appropriate mask type based on real-time a
 
 ### 🎵 Spotify Dashboard
 
-<img src="https://raw.githubusercontent.com/MALAIRAJ23/MALAIRAJ23/main/assets/spotify-dashboard.png" width="100%" alt="Spotify Dashboard Preview"/>
 
 </div>
 
@@ -144,7 +141,6 @@ Interactive analytics dashboard that visualizes Spotify listening data — top t
 
 ### 📉 Student Failure Prediction
 
-<img src="https://raw.githubusercontent.com/MALAIRAJ23/MALAIRAJ23/main/assets/student-failure.png" width="100%" alt="Student Failure Prediction Preview"/>
 
 </div>
 
@@ -168,7 +164,6 @@ Machine learning system that predicts students at risk of academic failure, enab
 
 ### 🩺 SympAI
 
-<img src="https://raw.githubusercontent.com/MALAIRAJ23/MALAIRAJ23/main/assets/symp-ai.png" width="100%" alt="SympAI Preview"/>
 
 </div>
 
@@ -186,7 +181,6 @@ AI-powered symptom checker that analyzes user-reported symptoms and suggests pos
 
 ### 🌱 DigiGarden
 
-<img src="https://raw.githubusercontent.com/MALAIRAJ23/MALAIRAJ23/main/assets/digigarden.png" width="100%" alt="DigiGarden Preview"/>
 
 </div>
 
