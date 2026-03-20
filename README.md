@@ -1,116 +1,263 @@
-<h1 align="center">Hi there, I'm Malairaj 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>Software Developer | Full-Stack Developer | Machine Learning Enthusiast</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=MALAIRAJ&fontSize=60&fontColor=ffffff&fontAlignY=55&desc=Software%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20ML%20Enthusiast&descSize=16&descColor=a78bfa&descAlignY=75&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <a href="mailto:malai2326raj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/malairaj/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-malairaj.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+</div>
 
----
+<div align="center">
 
-## 🧠 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Engineering+intelligent+ML+systems;Full-Stack+%7C+React+%7C+Python+%7C+ML)](https://git.io/typing-svg)
 
-- 🎓 Integrated M.Sc. Data Science student  
-- 💻 Passionate about **Software Development and Full-Stack Web Development**
-- 🚀 Building **scalable web applications and intelligent systems**
-- 🔭 Working on **full-stack projects using React, Node.js, and Python**
-- 🌱 Exploring **backend development, system design, and machine learning**
-- 💼 Looking for **Software Development / Full-Stack / Data roles**
-- 📍 Tamil Nadu, India
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-malai2326raj%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malai2326raj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malairaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malairaj/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-malairaj.netlify.app/)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-### Languages
+### 👤 About Me
+
+```yaml
+Name     : Malairaj
+Degree   : Integrated M.Sc. Data Science
+Location : Tamil Nadu, India
+Focus    : Full-Stack Dev + ML Engineering
+Learning : System Design & Backend Architecture
+Status   : Open to Internships & Roles
+```
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<br/>
+
+<table width="100%">
+
+<!-- Row 1 -->
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🛒 Shoppers Verdict
+
+<img src="https://raw.githubusercontent.com/MALAIRAJ23/MALAIRAJ23/main/assets/shoppers-verdict.png" width="100%" alt="Shoppers Verdict Preview"/>
+
+</div>
+
+A product review and verdict platform that helps shoppers make smarter buying decisions through aggregated ratings and intelligent insights.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MALAIRAJ23/shoppers-verdict-010)
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 😷 Smart Mask Recommendation
+
+<img src="https://raw.githubusercontent.com/MALAIRAJ23/MALAIRAJ23/main/assets/smart-mask.png" width="100%" alt="Smart Mask Preview"/>
+
+</div>
+
+ML-powered system that recommends the appropriate mask type based on real-time air quality index and environmental pollution data.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### Frameworks & Libraries
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MALAIRAJ23/SMART-MASK-RECOMMENDATION)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<!-- Row 2 -->
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🎵 Spotify Dashboard
+
+<img src="https://raw.githubusercontent.com/MALAIRAJ23/MALAIRAJ23/main/assets/spotify-dashboard.png" width="100%" alt="Spotify Dashboard Preview"/>
+
+</div>
+
+Interactive analytics dashboard that visualizes Spotify listening data — top tracks, artists, genres, and listening habits with clean data visualizations.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Spotify API](https://img.shields.io/badge/Spotify%20API-1DB954?style=flat-square&logo=spotify&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MALAIRAJ23/SPOTIFY_DASHBOARD)
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 📉 Student Failure Prediction
+
+<img src="https://raw.githubusercontent.com/MALAIRAJ23/MALAIRAJ23/main/assets/student-failure.png" width="100%" alt="Student Failure Prediction Preview"/>
+
+</div>
+
+Machine learning system that predicts students at risk of academic failure, enabling educators to intervene early and significantly improve outcomes.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MALAIRAJ23/Student-failure-prediction)
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<!-- Row 3 -->
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🩺 SympAI
+
+<img src="https://raw.githubusercontent.com/MALAIRAJ23/MALAIRAJ23/main/assets/symp-ai.png" width="100%" alt="SympAI Preview"/>
+
+</div>
+
+AI-powered symptom checker that analyzes user-reported symptoms and suggests possible conditions, bridging the gap between users and medical awareness.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### Tools & Platforms
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MALAIRAJ23/SYMP-AI)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
----
+<div align="center">
 
-## 🚀 Featured Projects
+### 🌱 DigiGarden
 
-| Project | Description | Tech |
-|-------|-------------|------|
-| **Car Pooling App** | Full-stack ride sharing platform designed for Coimbatore users | React, Node.js |
-| **Coimbuddy** | Smart assistant platform providing useful services for Coimbatore users | Python, ML |
-| **Student Failure Prediction System** | Machine learning system predicting students at academic risk | Python, Scikit-learn |
-| **Smart Mask Recommendation System** | ML system recommending masks based on environmental conditions | Python |
-| **Eunoia** | Web application project focused on user experience and UI | JavaScript |
+<img src="https://raw.githubusercontent.com/MALAIRAJ23/MALAIRAJ23/main/assets/digigarden.png" width="100%" alt="DigiGarden Preview"/>
 
----
+</div>
 
-## 🔨 Currently Working On
+A digital gardening platform that helps users track, manage and care for their plants with smart reminders, growth logs and plant health monitoring.
 
-- Improving my **Car Pooling Full-Stack Application**
-- Building **real-world software projects**
-- Learning **backend systems and scalable web architecture**
-- Exploring **AI and machine learning integration in applications**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MALAIRAJ23/digigarden)
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MALAIRAJ23&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALAIRAJ23&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MALAIRAJ23&theme=tokyonight&hide_border=true" width="55%"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=MALAIRAJ23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALAIRAJ23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="40%"/>
 
----
+</div>
 
-## 📊 Contribution Graph
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MALAIRAJ23&theme=tokyo-night"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MALAIRAJ23&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="55%"/>
 
----
+</div>
 
-## 💼 I'm Open To
+<div align="center">
 
-- 💻 **Software Development Internships**
-- 🌐 **Full-Stack Development Roles**
-- 🤖 **Machine Learning / Data Science Opportunities**
-- 🤝 **Open Source Collaborations**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MALAIRAJ23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa"/>
 
-📬 Reach me at: **[malai2326raj@gmail.com](mailto:malai2326raj@gmail.com)**
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MALAIRAJ23&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
+### 💼 Open To Opportunities
 
-<p align="center"><em>"Building useful software and intelligent systems."</em></p>
+<div align="center">
+
+| Role | Status |
+|:---|:---:|
+| 💻 Software Development Internship | ✅ Available |
+| 🌐 Full-Stack Development Roles | ✅ Available |
+| 🤖 Machine Learning / Data Science | ✅ Available |
+| 🤝 Open Source Collaboration | ✅ Available |
+
+<br/>
+
+**📬 Let's connect**
+
+[![Email](https://img.shields.io/badge/Send%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malai2326raj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malairaj/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-malairaj.netlify.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=MALAIRAJ23&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+*"Building useful software and intelligent systems."*
+
+</div>
