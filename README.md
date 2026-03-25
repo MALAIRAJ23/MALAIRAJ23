@@ -70,7 +70,7 @@ Status   : Open to Internships & Roles
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <br/>
 
@@ -99,7 +99,7 @@ A product review and verdict platform that helps shoppers make smarter buying de
 
 <div align="center">
 
-### 😷 Smart Mask Recommendation
+###  Smart Mask Recommendation
 
 
 </div>
@@ -122,7 +122,7 @@ ML-powered system that recommends the appropriate mask type based on real-time a
 
 <div align="center">
 
-### 🎵 Spotify Dashboard
+###  Spotify Dashboard
 
 
 </div>
@@ -139,7 +139,7 @@ Interactive analytics dashboard that visualizes Spotify listening data — top t
 
 <div align="center">
 
-### 📉 Student Failure Prediction
+###  Student Failure Prediction
 
 
 </div>
@@ -162,7 +162,7 @@ Machine learning system that predicts students at risk of academic failure, enab
 
 <div align="center">
 
-### 🩺 SympAI
+###  SympAI
 
 
 </div>
@@ -179,7 +179,7 @@ AI-powered symptom checker that analyzes user-reported symptoms and suggests pos
 
 <div align="center">
 
-### 🌱 DigiGarden
+### DigiGarden
 
 
 </div>
@@ -198,7 +198,7 @@ A digital gardening platform that helps users track, manage and care for their p
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
@@ -221,20 +221,20 @@ A digital gardening platform that helps users track, manage and care for their p
 
 ---
 
-### 💼 Open To Opportunities
+###  Open To Opportunities
 
 <div align="center">
 
 | Role | Status |
 |:---|:---:|
-| 💻 Software Development Internship | ✅ Available |
-| 🌐 Full-Stack Development Roles | ✅ Available |
-| 🤖 Machine Learning / Data Science | ✅ Available |
-| 🤝 Open Source Collaboration | ✅ Available |
+|  Software Development Internship | ✅ Available |
+|  Full-Stack Development Roles | ✅ Available |
+|  Machine Learning / Data Science | ✅ Available |
+|  Open Source Collaboration | ✅ Available |
 
 <br/>
 
-**📬 Let's connect**
+** Let's connect**
 
 [![Email](https://img.shields.io/badge/Send%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malai2326raj@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malairaj/)
