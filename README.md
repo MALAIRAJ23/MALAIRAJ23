@@ -39,7 +39,7 @@ Status   : Open to Internships & Roles
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
