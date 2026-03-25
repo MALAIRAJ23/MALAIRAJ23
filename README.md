@@ -24,7 +24,7 @@
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-### 👤 About Me
+###  About Me
 
 ```yaml
 Name     : Malairaj
@@ -82,7 +82,7 @@ Status   : Open to Internships & Roles
 
 <div align="center">
 
-### 🛒 Shoppers Verdict
+###  Shoppers Verdict
 
 
 </div>
